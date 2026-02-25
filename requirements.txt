@@ -1,0 +1,34 @@
+# Python version requirement
+python>=3.7
+
+# Core networking and system libraries
+psutil>=5.8.0           # System monitoring (CPU, memory, disk, network)
+requests>=2.26.0        # HTTP requests
+colorama>=0.4.4         # Terminal colors
+python-whois>=0.8.0     # WHOIS lookups
+
+# Discord integration
+discord.py>=2.0.0       # Discord bot functionality
+
+# Telegram integration (optional)
+telethon>=1.24.0        # Telegram client
+
+# Network scanning and packet manipulation
+scapy>=2.4.5            # Packet generation and manipulation
+netifaces>=0.11.0       # Network interface information
+
+# QR code generation
+qrcode[pil]>=7.3.1      # QR code generation
+Pillow>=9.0.0           # Image processing for QR codes
+
+# URL shortening
+pyshorteners>=1.0.1     # URL shortening services
+
+# Database
+sqlite3                 # Built-in, no installation needed
+
+# Web server for phishing
+http.server             # Built-in, no installation needed
+
+# Wordlist generation
+crunch                  # External tool (install via package manager)
