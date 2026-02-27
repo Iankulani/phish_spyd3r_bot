@@ -3,19 +3,19 @@ Phish-Spyd3r-Bot is a comprehensive cybersecurity simulation and training tool d
 
 The primary goal of Phish-Spyd3r-Bot is not exploitation, but preparation. It enables security teams to understand how phishing campaigns, social engineering tactics, and network penetration attempts work in controlled, authorized environments. Through structured simulations, organizations can test employee awareness, evaluate detection systems, strengthen incident response workflows, and improve overall cybersecurity resilience.
 
-🔐 Purpose and Core Philosophy
+# 🔐 Purpose and Core Philosophy
 
 Phish-Spyd3r-Bot operates under an ethical-first framework. It is strictly intended for:
 
-Authorized cybersecurity training
+* Authorized cybersecurity training
 
-Corporate cyber drills
+* Corporate cyber drills
 
-Red-team/blue-team exercises
+* Red-team/blue-team exercises
 
-Security awareness programs
+* Security awareness programs
 
-Academic research in information security
+* Academic research in information security
 
 Defensive system testing in controlled environments
 
@@ -25,61 +25,61 @@ The platform emphasizes responsible usage, proper authorization, and compliance 
 
 One of the key features of Phish-Spyd3r-Bot is its phishing simulation engine. This module allows cybersecurity teams to conduct controlled phishing awareness campaigns within their organization. Instead of targeting real victims unlawfully, the system operates within approved testing groups.
 
-Features include:
+# Features include
 
-Customizable phishing page templates (for training scenarios only)
+* Customizable phishing page templates (for training scenarios only)
 
-Email simulation campaigns with tracking metrics
+* Email simulation campaigns with tracking metrics
 
-Click-rate analytics
+* Click-rate analytics
 
-Credential submission simulation logs (without storing real sensitive data)
+* Credential submission simulation logs (without storing real sensitive data)
 
-Awareness scoring dashboards
+* Awareness scoring dashboards
 
-Automated training follow-up modules
+* Automated training follow-up modules
 
 The phishing pages are designed for education. When users interact with a simulated phishing page, they are redirected to awareness training materials explaining the warning signs they may have missed. This approach reinforces learning while measuring organizational risk exposure.
 
-The analytics dashboard helps administrators track:
+# The analytics dashboard helps administrators track
 
-Who opened the simulated message
+* Who opened the simulated message
 
-Who clicked the link
+* Who clicked the link
 
-Who reported the message
+* Who reported the message
 
-Time to response
+* Time to response
 
 Department-level risk scoring
 
 This data empowers leadership to identify departments requiring additional training.
 
-🕷 Network Penetration Testing Simulation Module
+# 🕷 Network Penetration Testing Simulation Module
 
 Phish-Spyd3r-Bot also includes a network security testing simulation component designed for ethical penetration testing within authorized networks. This module allows cybersecurity teams to evaluate how well their infrastructure responds to reconnaissance, scanning, and controlled exploitation attempts.
 
 Capabilities include:
 
-Simulated port scanning for services such as SSH (Secure Shell), HTTP, HTTPS, FTP, and others
+* Simulated port scanning for services such as SSH (Secure Shell), HTTP, HTTPS, FTP, and others
 
-Network enumeration drills
+* Network enumeration drills
 
-Credential strength testing simulations
+* Credential strength testing simulations
 
-Service detection mapping
+* Service detection mapping
 
-Vulnerability awareness reporting
+* Vulnerability awareness reporting
 
 Rather than performing harmful actions, the system generates simulated penetration events so that blue teams can practice detection, logging, alerting, and response procedures.
 
-The SSH security simulation module evaluates:
+# The SSH security simulation module evaluates
 
-Weak password policies
+* Weak password policies
 
-Brute-force protection readiness
+* Brute-force protection readiness
 
-Login monitoring effectiveness
+*Login monitoring effectiveness
 
 Account lockout policies
 
@@ -221,15 +221,15 @@ The system ensures that simulations cannot be misused outside approved scopes. A
 
 🌐 Ethical Commitment
 
-Phish-Spyd3r-Bot is strictly a cybersecurity simulation and defensive readiness tool. It must only be used:
+# Phish-Spyd3r-Bot is strictly a cybersecurity simulation and defensive readiness tool. It must only be used
 
-On systems you own
+* On systems you own
 
-On networks you are authorized to test
+* On networks you are authorized to test
 
-Within educational lab environments
+* Within educational lab environments
 
-With written permission from stakeholders
+* With written permission from stakeholders
 
 Unauthorized use of phishing systems or penetration testing tools is illegal and unethical. The purpose of this platform is to strengthen cybersecurity defenses, not to bypass them.
 
